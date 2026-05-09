@@ -80,23 +80,21 @@ Some measures used in the project:
 # Dashboard Preview
 
 ## Overview Dashboard
-![Overview](screenshots/overview.png)
+![Overview](Screenshot/Screenshot_1.png)
 
-## Product Analysis
-![Product](screenshots/product-insight.png)
+## Segment&Discount Analysis
+![Product](Screenshot/Screenshot_2.png)
 
-## Segment Analysis
-![Segment](screenshots/segment-insight.png)
-
-## Country Analysis
-![Country](screenshots/country-insight.png)
+## Drillthrough
+![Drillthrough](Screenshot/Screenshot_3.png)
 
 ---
 
 ## Files Included
 - Power BI dashboard (.pbix)
 - Presentation slides (.pdf)
-- Dataset (.csv)
+- Raw Dataset (.csv)
+- Dataset cleaned (.xlsx)
 - Dashboard screenshots
 
 ---
