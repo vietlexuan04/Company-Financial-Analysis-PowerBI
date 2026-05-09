@@ -16,7 +16,7 @@ The goal is to transform raw financial data into actionable business insights th
 
 ---
 
-## 📌 Dataset Information
+## Dataset Information
 
 Source: Sample financial dataset
 Records: 700 rows × 16 columns
