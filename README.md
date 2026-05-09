@@ -18,7 +18,7 @@ The goal is to transform raw financial data into actionable business insights th
 
 ## Dataset Information
 
-Source: Sample financial dataset
+Source: [Company Financial Dataset](https://www.kaggle.com/datasets/atharvaarya25/financials)
 Records: 700 rows × 16 columns
 
 Fields include:
@@ -56,7 +56,6 @@ Some measures used in the project:
 - YoY Growth
 - Sales Last Month
 - Highlight MaxMin Sales
-- 
 ---
 
 # Key Business Insights
